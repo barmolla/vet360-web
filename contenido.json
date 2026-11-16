@@ -1,0 +1,72 @@
+[
+  {
+    "nav": "Portada",
+    "kicker": "VET360",
+    "title": "VET 360",
+    "benefit": "Gestión veterinaria inteligente",
+    "note": "Portada de apertura. La animación del nombre concentra la atención antes de entrar en el contenido. Avanzar para comenzar la propuesta. No cuenta como una de las nueve páginas de contenido."
+  },
+  {
+    "nav": "La solución",
+    "kicker": "UNA SOLUCIÓN PARA TODA LA RED",
+    "title": "Escuchamos al cliente.<br><em>Diseñamos la solución.</em>",
+    "benefit": "Atención, operación y gestión comercial integradas con Club Patitas.",
+    "note": "Presentar las tres sedes reales del escenario: hospital con internación y urgencia 24 horas; sede de atención básica; sede de urgencias ambulatorias. Las tres tienen pet shop. Señalar que la sede hospitalaria se distingue en la ilustración. VET360 reúne los procesos asistenciales, operativos y comerciales. Club Patitas forma parte de esa propuesta comercial mediante puntos y beneficios; no se inventan descuentos, equivalencias ni resultados de retención."
+  },
+  {
+    "nav": "Relevamiento y alcance",
+    "kicker": "ANÁLISIS SUSTENTADO EN EL NEGOCIO",
+    "title": "Relevamos la necesidad.<br><em>Evaluamos la viabilidad.</em>",
+    "benefit": "Entrevistas, encuestas, factibilidad y un alcance definido orientan el desarrollo.",
+    "note": "Recorrer los cuatro apartados. El relevamiento utiliza entrevistas al responsable y al personal, encuestas y formularios de consultas. El usuario informó además encuestas en Instagram. Los problemas identificados son la independencia de los sistemas por sede, el chequeo manual de stock y la información limitada del legado. La factibilidad considera mercado, técnica, operación, economía y aspectos legales y ambientales. Las cifras económicas son estimaciones del estudio: inversión USD 37.642, recupero 13,9 meses y VAN USD 79.398 a cinco años con descuento del 12 %. No son resultados observados ni una oferta contractual. Mostrar también las funciones incluidas y excluidas; las ventas de productos sujetos a prescripción requieren validar la receta."
+  },
+  {
+    "nav": "Arquitectura y tecnologías",
+    "kicker": "UNA ARQUITECTURA MODULAR Y CENTRALIZADA",
+    "title": "Tecnologías conectadas.<br><em>Beneficios concretos.</em>",
+    "benefit": "Monolito modular: despliegue unificado, mantenimiento ordenado y evolución gradual.",
+    "note": "La arquitectura elegida es un monolito modular con cuatro capas conceptuales: presentación; enrutamiento y seguridad; lógica de negocio; persistencia y datos. React implementa interfaces web responsivas. Node.js con NestJS estructura los módulos y la API REST/JSON. MySQL organiza los datos relacionales y S3 los archivos. Docker y AWS EC2 sostienen el despliegue propuesto. Explicar el beneficio: un despliegue común simplifica la implementación; los límites por módulos facilitan el mantenimiento; la infraestructura puede ampliar recursos y, cuando la demanda lo justifique, permitir separar módulos. No presentar un microservicio por cada caja ni atribuir elasticidad automática, costos garantizados o un SLA a la solución."
+  },
+  {
+    "nav": "Datos e integridad",
+    "kicker": "EL MODELO QUE SOSTIENE LA OPERACIÓN",
+    "title": "Información íntegra.<br><em>Operación consistente.</em>",
+    "benefit": "Los dominios organizan la información; las relaciones y restricciones protegen su coherencia.",
+    "note": "Mostrar los seis dominios y sus entidades representativas. Organización y personal: sucursal, empleado, usuario y especialidad. Clientes y fidelización: cliente, programa de puntos y beneficio. Mascotas y clínica: mascota, turno, consulta y estudio. Internación y quirófano: internación, cama, indicación y cirugía. Stock y farmacia: producto, depósito, lote y transferencia. Recetas, tienda y ventas: receta, carrito, venta y pago. El DER identifica entidades y vínculos; el DLR los lleva a tablas, claves y restricciones. El ejemplo de relaciones es intencionalmente acotado y no pretende reproducir el DER completo. Destacar PK, FK, obligatoriedad, unicidad, validaciones, baja lógica y transacciones para coordinar turnos, camas y stock. Los anexos contienen versiones divergentes en motor y conteos: por eso esta página usa los dominios y reglas comunes, sin dar un conteo de tablas como argumento comercial."
+  },
+  {
+    "nav": "Interfaces y prototipos",
+    "kicker": "EL DISEÑO SE PUEDE VER Y RECORRER",
+    "title": "Del wireframe<br><em>a la experiencia de uso.</em>",
+    "benefit": "Pantallas reales del trabajo del equipo, con recorridos consistentes para cada perfil.",
+    "note": "Alternar Wireframes y Prototipos, elegir una imagen y ampliarla. Los wireframes provienen del PDF VET360 - Wireframes adjuntado por el usuario. Los prototipos se extraen del documento de demostraciones PBI-07 a PBI-16, enlazado en el documento principal. Las imágenes son material original del proyecto, no maquetas generadas para reemplazarlas. El PDF de wireframes contiene veinte pantallas; la galería selecciona accesos, reserva, ficha y operación interna. Los datos de personas, mascotas y fechas forman parte de los ejemplos de los prototipos originales."
+  },
+  {
+    "nav": "Roles, sedes y depósito",
+    "kicker": "TAREAS CLARAS, INFORMACIÓN COMPARTIDA",
+    "title": "Cada rol, su tarea.<br><em>Toda la red, conectada.</em>",
+    "benefit": "Permisos por función, coordinación entre sedes y movimientos trazables con el depósito.",
+    "note": "Explorar Roles, Red y depósito, y Aprendizaje. El cliente necesita compartir información sin dar acceso indiscriminado: el encargado consulta operación, insumos y stock; el profesional autorizado registra clínica; el responsable consulta sus mascotas. Recepción, auxiliar, personal comercial, depósito y administración completan la operación según los permisos asignados. Las sedes se relacionan con una plataforma central y con depósitos locales y un depósito central. La curva de aprendizaje se aborda mediante tareas frecuentes, pasos guiados, componentes consistentes y capacitación por rol; no se dispone de una medición que permita prometer una cantidad de horas para aprender."
+  },
+  {
+    "nav": "Del turno al alta",
+    "kicker": "AGENDA Y CONTINUIDAD ASISTENCIAL",
+    "title": "Del turno al alta.<br><em>Con información compartida.</em>",
+    "benefit": "Reserva, historia clínica, urgencias, internación y cirugía mantienen el contexto del paciente.",
+    "note": "Esta página agrupa la asignación de turnos y toda la atención clínica sin perder contenido. Turnos: sede y especialidad, profesional, mascota, fecha y horario, confirmación, reprogramación y cancelación. Historia: consulta actual e historial, vacunación, estudios, recetas, tratamientos e indicaciones. Atención especializada: criticidad, prioridad, derivación, admisión, evolución e indicaciones durante internación y alta. Cirugía: programación según disponibilidad, profesional y mascota vinculados, parte quirúrgico y seguimiento. El criterio médico corresponde al profesional. El sistema organiza y registra información, no sustituye la decisión clínica."
+  },
+  {
+    "nav": "Inventario y circuito comercial",
+    "kicker": "CONTROL COMERCIAL EN TODA LA RED",
+    "title": "Del stock a la venta.<br><em>Un circuito relacionado.</em>",
+    "benefit": "Existencias, transferencias, catálogo, ventas, pagos y recetas se gestionan con trazabilidad.",
+    "note": "Esta página mantiene la gestión comercial e inventario de las versiones previas. Consultar existencias por sede, verificar la red, solicitar y registrar transferencias. Relacionar producto, origen, destino y movimiento. Mostrar catálogo, pedidos y ventas presenciales u online; medios de pago, comprobantes y presupuestos. Las ventas de productos sujetos a prescripción requieren presentar y validar receta. No se incorporan automatizaciones con ARCA/SENASA ni una integración de pagos no acordada. Los estados de interacción son ejemplos y no inventario ni transacciones reales del cliente."
+  },
+  {
+    "nav": "Experiencia y Club Patitas",
+    "kicker": "UNA RELACIÓN COMERCIAL QUE CONTINÚA",
+    "title": "La experiencia continúa.<br><em>El vínculo también.</em>",
+    "benefit": "Portal, servicios y Club Patitas acompañan la relación con el cliente y la recurrencia comercial.",
+    "note": "Esta página conserva la experiencia del cliente, la fidelización y el cierre de implementación de la versión anterior. Portal: cuenta, mascotas, información clínica y turnos, tienda, carrito y pedidos. Servicios: reservas y seguimiento de spa y peluquería. Club Patitas: operaciones elegibles, acumulación de puntos y canje de beneficios bajo reglas acordadas con la organización. Su propósito comercial es incentivar recurrencia y continuidad del vínculo, sin prometer una tasa de retención ni fijar puntos o descuentos. El cierre propone acordar alcance e inversión, revisar/migrar/validar datos, capacitar por rol y activar por etapas."
+  }
+]

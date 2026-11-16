@@ -1,0 +1,18 @@
+VET360 — PRESENTACIONES INTERACTIVAS · VERSIÓN 3
+
+Descomprimir el ZIP y abrir INICIO.html con doble clic.
+Cada estilo tiene una portada más nueve páginas de contenido: 10 pantallas.
+Los estilos, paleta, tipografía, formato 16:9 y controles se conservan.
+
+0: portada. 1–9: página. Flechas: navegar. Inicio/Fin: primera/última.
+F: pantalla completa. P: guion. I: índice. A: movimiento. R: repetir.
+Las pestañas cambian los apartados sin añadir diapositivas.
+En la página 5, elegir Wireframes o Prototipos y ampliar la imagen.
+
+Cada HTML incluye imágenes, gráficos, Montserrat, Inter y JavaScript.
+No requiere internet, servidor, PowerPoint ni instalación.
+Para trasladar un modelo basta copiar su HTML.
+
+Documentos del equipo: AUDITORIA.pdf, GUION_EQUIPO.pdf y VERIFICACION.txt.
+La auditoría incluye el mapa de la agrupación de las páginas anteriores.
+Los anexos del equipo no son diapositivas de la presentación.

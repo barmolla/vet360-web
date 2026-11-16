@@ -1,0 +1,24 @@
+VET360 — CORRECCIONES VERIFICADAS · VERSIÓN 3
+15/11/2026
+
+Estructura: 10 pantallas por modelo (portada + páginas 1 a 9).
+Cuatro estilos conservados.
+01_Escena_360.html: 10 pantallas, 77 interacciones verificadas, sin incidencias detectadas.
+02_Producto_en_accion.html: 10 pantallas, 77 interacciones verificadas, sin incidencias detectadas.
+03_Una_historia_conectada.html: 10 pantallas, 77 interacciones verificadas, sin incidencias detectadas.
+04_Perspectiva_de_negocio.html: 10 pantallas, 77 interacciones verificadas, sin incidencias detectadas.
+
+Encabezado y pie globales: Gestión veterinaria inteligente.
+Título de página 1 y eliminación de la cita: verificados.
+Tres sedes presentes; hospital diferenciado y Club Patitas conectado.
+Conexiones: extremos medidos sobre los límites de sus componentes.
+Nodos de diagramas sin vínculo: 0 en las vistas probadas.
+Etiquetas fuera de los componentes: 0 en las vistas probadas.
+Galería: 6 wireframes y 7 imágenes originales de prototipos.
+Imágenes ampliables, navegación, índice y guion: verificados.
+Revisión visual de las 40 pantallas y revisión de textos añadidos.
+Escalado probado a 1600×900 y 1366×768.
+Errores de JavaScript detectados: 0.
+Solicitudes externas durante ejecución offline: 0.
+
+La verificación corresponde a la presentación, no a una auditoría de la aplicación.
